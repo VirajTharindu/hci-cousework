@@ -20,6 +20,26 @@ Senura Furniture is a Java Swing application designed for showcasing both 2D and
 
 - **Admin Panel**: An administrative panel allows authorized personnel to manage product listings, update inventory, monitor sales, and perform other administrative tasks.
 
+## Screenshots
+
+### Application Preview
+
+| Login Screen | Dashboard | Product Catalog |
+| :---: | :---: | :---: |
+| ![Login](screenshots/1.jpg) | ![Dashboard](screenshots/4.jpg) | ![Catalog](screenshots/7.png) |
+
+### Features inside the App
+
+| Product Detail | Customization | 3D Visualization |
+| :---: | :---: | :---: |
+| ![Product](screenshots/5.jpg) | ![Customization](screenshots/6.jpg) | ![3D View](screenshots/8.jpg) |
+
+### 3D Modeling Gallery
+
+| Bed (3D) | Gaming Chair (3D) | Wood Desk (3D) |
+| :---: | :---: | :---: |
+| ![Bed](screenshots/8.jpg) | ![Gaming Chair](screenshots/9.jpg) | ![Desk](screenshots/10.jpg) |
+
 ## Getting Started
 
 ### Prerequisites
